@@ -9,7 +9,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Ahmer Hashmi",
   "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.22.0",
